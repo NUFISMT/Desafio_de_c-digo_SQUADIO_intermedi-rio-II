@@ -40,9 +40,9 @@ Elemento Ar:
 
     Entrada
 
-Seu código deve receber as seguintes entradas do usuário:
+Seu código deve receber as seguintes entradas do usuário
 
-c
+
 
 Intensidade do feitiço (de 1 a 10): um número inteiro representando a força do feitiço.
 Componente raro (sim ou não): uma string indicando se o feitiço contém um componente raro.
